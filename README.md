@@ -10,3 +10,5 @@ Each directory and file within this repository reflects:
 My goal is to build a publicly accessible proof-of-learning portfolio that showcases my skills and dedication to the field of cybersecurity. I believe that knowledge should be pursued regardless of financial barriers, and this repository is my way of taking ownership of my learning journey.
 
 Feel free to explore the code, techniques, and notes. If you're on a similar path, you're more than welcome to reach out or collaborate!
+
+Harvard CS50 Cybersecurity: July 2025 - Present
